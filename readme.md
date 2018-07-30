@@ -107,10 +107,10 @@ Investigación de palabras claves
 - Es una tarea importante del SEO que implica identificar palabras y frases populares que las personas ingresan en los motores de búsqueda.
 - Investigar las palabras clave nos dará una mejor comprensión de cuán alta es la demanda para ciertas palabras clave y qué tan dificil será competir por esos términos en los resultados de los motores de búsqueda.
 
-### Identificar keyword principal
+## Identificar keyword principal
 Estas se pueden diferenciar por 2 factores:
 
-#### Intención del usuario
+### Intención del usuario
 Estas búsquedas se definen por el objetivo que tiene el usuario.
 
 - **Informativas**
